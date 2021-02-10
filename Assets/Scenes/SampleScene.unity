@@ -310,6 +310,18 @@ PrefabInstance:
       propertyPath: paintCube
       value: 
       objectReference: {fileID: 8102250404644335962, guid: 16d157b66f5100548a33ee36a4b162a7, type: 3}
+    - target: {fileID: 1489015998742478933, guid: 26f4cc25280d6de49ac3168c240c8389, type: 3}
+      propertyPath: brushMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 5ed84bba6bc48ac4aa1cd077f76937cb, type: 2}
+    - target: {fileID: 1489015998742478933, guid: 26f4cc25280d6de49ac3168c240c8389, type: 3}
+      propertyPath: paintMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 1e30993f469310f468967b4f9636c65e, type: 2}
+    - target: {fileID: 4166274345672106187, guid: 26f4cc25280d6de49ac3168c240c8389, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.6
+      objectReference: {fileID: 0}
     - target: {fileID: 4166274346357925852, guid: 26f4cc25280d6de49ac3168c240c8389, type: 3}
       propertyPath: m_RootOrder
       value: 1
